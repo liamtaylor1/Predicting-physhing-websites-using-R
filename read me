@@ -1,0 +1,5 @@
+R script must be pointed at dataset before running.
+
+This script shows several diffrent individal machine learning techniques used against the same data to compair results.
+
+models are then combines into varies ensemble models to boost the results howing a high accuracy at predicting phishing websites based of the websites data.
